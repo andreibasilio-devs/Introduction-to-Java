@@ -1,4 +1,4 @@
-# Introduction-to-Java ☕
+# Introduction to Java ☕
 Welcome to my Introduction to Java repository. In this repository, I will show you all of my projects including lab activities and other self invented projects applying my fundamental knowledge in Java programming language.
 
 ## 🚀Key topics
