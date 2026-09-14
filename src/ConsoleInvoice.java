@@ -6,7 +6,7 @@ public class ConsoleInvoice {
     public static void main(String[] args) {
         //This is my program showcasing the use of print statements, \n, \", and \t.
         System.out.println("\n\"Andrei's Sari-Sari Store\""); // Using print statements to print the hardcoded outputs.
-        System.out.println("No.94 Purok 5, Los Bolivard, Baguio City, Philippines.\n"); // Using \n and \t for formatting purposes.
+        System.out.println("No.94 Purok 5, Los Bolivard, Baguio City, Philippines.\n"); // Using \n, \", and \t for formatting purposes.
         System.out.println("1.Kopiko Blanca\t\t\t\t\tPHP 12\t\t3x\tPHP 36");
         System.out.println("2.Gardenia Whole Wheat Bread\tPHP 105\t\t2x\tPHP 210");
         System.out.println("3.Clear Men Shampoo\t\t\t\tPHP 10\t\t4x\tPHP 40");
